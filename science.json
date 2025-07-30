@@ -1,25 +1,26 @@
 {
   "words": [
-    { "question": "kibasket", "answer": "basket", "image": null },
-    { "question": "bofutl", "answer": "futbol", "image": null },
-    { "question": "avoleyb", "answer": "voley", "image": null },
-    { "question": "srenpaa", "answer": "spanner", "image": null },
-    { "question": "nekntis", "answer": "tenis", "image": null },
-    { "question": "skreea", "answer": "kayak", "image": null },
-    { "question": "dnmaoa", "answer": "dambıl", "image": null },
-    { "question": "ipknogc", "answer": "pingpong", "image": null },
-    { "question": "baareesl", "answer": "serbest", "image": null },
-    { "question": "sruko", "answer": "kros", "image": null },
-    { "question": "fnriue", "answer": "fener", "image": null },
-    { "question": "ldaeit", "answer": "atlet", "image": null },
-    { "question": "yerpgmi", "answer": "jimnasy", "image": null },
-    { "question": "skraat", "answer": "kartal", "image": null },
-    { "question": "gdoj", "answer": "judo", "image": null },
-    { "question": "prosm", "answer": "spor", "image": null },
-    { "question": "sswim", "answer": "yüzme", "image": null },
-    { "question": "rduan", "answer": "koşu", "image": null },
-    { "question": "scoebir", "answer": "biceps", "image": null },
-    { "question": "alpow", "answer": "plank", "image": null }
+    { "question": "egn", "answer": "gen", "image": "https://images.pexels.com/photos/17485658/pexels-photo-17485658.png?_gl=1*1gb1gix*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5MjMzJGo2MCRsMCRoMA.." },
+    { "question": "prtono", "answer": "proton", "image": null },
+    { "question": "zyaimli", "answer": "yazılım", "image": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?_gl=1*17bkt0a*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5MjY3JGoyNiRsMCRoMA.." },
+    { "question": "maot", "answer": "atom", "image": "https://images.pexels.com/photos/7723354/pexels-photo-7723354.jpeg?_gl=1*af8ozx*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5MjUxJGo0MiRsMCRoMA.." },
+    { "question": "ernükel", "answer": "nükleer", "image": "https://images.pexels.com/photos/459728/pexels-photo-459728.jpeg?_gl=1*1p51fjy*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5MjgwJGoxMyRsMCRoMA.." },
+    { "question": "jbiyoilo", "answer": "biyoloji", "image": "https://images.pexels.com/photos/5905563/pexels-photo-5905563.jpeg?_gl=1*x8efj1*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5Mjk1JGo2MCRsMCRoMA.." },
+    { "question": "yikmlasa", "answer": "kimyasal", "image": null },
+    { "question": "keletkri", "answer": "elektrik", "image": "https://images.pexels.com/photos/218445/pexels-photo-218445.jpeg?_gl=1*t8ilas*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5MzIwJGozNSRsMCRoMA.." },
+    { "question": "ifkzi", "answer": "fizik", "image": "https://images.pexels.com/photos/60582/newton-s-cradle-balls-sphere-action-60582.jpeg?_gl=1*tafwn*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5MzA4JGo0NyRsMCRoMA.." },
+    { "question": "smar", "answer": "mars", "image": "https://images.pexels.com/photos/7527862/pexels-photo-7527862.jpeg?_gl=1*13bhv3d*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5MzMyJGoyMyRsMCRoMA.." },
+
+    { "question": "Einstein, ........ teorisi ile bilinir.", "answer": "izafiyet", "image": null },
+    { "question": "Ay, Dünya'nın ........ cismidir.", "answer": "uydu", "image": "https://images.pexels.com/photos/15334824/pexels-photo-15334824.jpeg?_gl=1*1iatpgj*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5Mzg0JGo0NyRsMCRoMA.." },
+    { "question": "Suyun donma noktası ........ derecedir.", "answer": "0", "image": null },
+    { "question": "İnsan vücudundaki en büyük organ ........ deridir.", "answer": "cilt", "image": null },
+    { "question": "DNA, ........ materyalidir.", "answer": "genetik", "image": "https://images.pexels.com/photos/18069424/pexels-photo-18069424.png?_gl=1*1dcmi2p*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5NDEyJGoxOSRsMCRoMA.." },
+    { "question": "Bir yılda ........ gün vardır.", "answer": "365", "image": "https://media.istockphoto.com/id/1447963729/tr/foto%C4%9Fraf/thumbtack-pins-on-a-calendar.jpg?s=2048x2048&w=is&k=20&c=c4m9shBWfrM_ve8CWlElHe5zhsmdGiYRYTe0L6_yWs8=" },
+    { "question": "Kütle birimi ........ ile ölçülür.", "answer": "kilogram", "image": null },
+    { "question": "Maddenin üç hali katı, sıvı ve ........’dir.", "answer": "gaz", "image": null },
+    { "question": "Dünya, Güneş etrafında ........ hareketi yapar.", "answer": "dolanma", "image": null },
+    { "question": "İlk Türk kadın astronot ........ olarak açıklandı.", "answer": "Tuva Cihangir", "image": null }
   ]
 }
 
