@@ -1,25 +1,80 @@
 {
   "words": [
-    { "question": "gönüz", "answer": "özgün", "image": null },
-    { "question": "atşia", "answer": "şiir", "image": null },
-    { "question": "taktur", "answer": "tutrak", "image": null },
-    { "question": "oskra", "answer": "korsa", "image": null },
-    { "question": "okrbai", "answer": "karibo", "image": null },
-    { "question": "roanmn", "answer": "roman", "image": null },
-    { "question": "zaanl", "answer": "nazım", "image": null },
-    { "question": "tnahi", "answer": "hatin", "image": null },
-    { "question": "trmeh", "answer": "mehtr", "image": null },
-    { "question": "melite", "answer": "temeli", "image": null },
-    { "question": "frziya", "answer": "yazıfr", "image": null },
-    { "question": "ugnaı", "answer": "uğrına", "image": null },
-    { "question": "zrmtnia", "answer": "nazımtr", "image": null },
-    { "question": "aznmı", "answer": "nazım", "image": null },
-    { "question": "ykaraz", "answer": "yazar", "image": null },
-    { "question": "lartay", "answer": "taylar", "image": null },
-    { "question": "rafbif", "answer": "fabfır", "image": null },
-    { "question": "ezdmti", "answer": "metzid", "image": null },
-    { "question": "netaş", "answer": "şaten", "image": null },
-    { "question": "fabı", "answer": "fabı", "image": null }
+    {
+      "question": "........, Türk edebiyatının en önemli destanlarından biridir.",
+      "answer": "dede korkut",
+      "image": null
+    },
+    {
+      "question": "........, 'İstanbul'u Dinliyorum' adlı şiirin yazarıdır.",
+      "answer": "orhan veli kanık",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Orhan_Veli_Kan%C4%B1k.jpg"
+    },
+    {
+      "question": "........, 'Tutunamayanlar' adlı eseriyle tanınır.",
+      "answer": "oğuz atay",
+      "image": "https://upload.wikimedia.org/wikipedia/tr/1/17/O%C4%9Fuz_Atay.jpg"
+    },
+    {
+      "question": "........, halk edebiyatında mani türünün önemli temsilcisidir.",
+      "answer": "aşık",
+      "image": null
+    },
+    {
+      "question": "........, roman türünde yazılmış uzun hikayelere verilen addır.",
+      "answer": "roman",
+      "image": "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?_gl=1*1yj2rrq*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4NjkzNjUkbzE0JGcxJHQxNzUzODcyODczJGo0OCRsMCRoMA.."
+    },
+    {
+      "question": "........, şiirdeki en küçük anlamlı yapı birimidir.",
+      "answer": "dize",
+      "image": null
+    },
+    {
+      "question": "........, şiirde kafiye ve ritim düzenini sağlayan unsurdur.",
+      "answer": "uyak",
+      "image": null
+    },
+    {
+      "question": "........, edebiyatta hikayenin ana fikrini anlatan cümledir.",
+      "answer": "tema",
+      "image": null
+    },
+    {
+      "question": "........, tiyatroda eserin oynandığı sahnedir.",
+      "answer": "dekordur",
+      "image": null
+    },
+    {
+      "question": "........, şairlerin duygularını anlattığı şiir türüdür.",
+      "answer": "lirik",
+      "image": null
+    },
+    {
+      "question": "........, \"Kürk Mantolu Madonna\" romanının yazarıdır.",
+      "answer": "sabahattin ali",
+      "image": "https://upload.wikimedia.org/wikipedia/tr/f/f6/Sabahattin_ali.jpg"
+    },
+    {
+      "question": "........, bir kişinin yaşam öyküsünü anlattığı yazıya denir.",
+      "answer": "otobiyografi",
+      "image": "https://images.pexels.com/photos/261763/pexels-photo-261763.jpeg?_gl=1*qk8e0b*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4NjkzNjUkbzE0JGcxJHQxNzUzODcyNzkwJGo1NSRsMCRoMA.."
+    },
+    {
+      "question": "........, \"İnce Memed\" romanının yazarıdır.",
+      "answer": "yaşar kemal",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ya%C5%9Far_Kemal.jpg"
+    },
+    {
+      "question": "........, şiirde duygu ve düşünceleri serbestçe anlatma biçimidir.",
+      "answer": "serbest nazım",
+      "image": null
+    },
+    {
+      "question": "........, kelimelerin anlamlarına yüklenen duygu ve çağrışımlardır.",
+      "answer": "mecaz",
+      "image": null
+    }
   ]
 }
 
