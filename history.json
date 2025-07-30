@@ -7,7 +7,7 @@
     { "question": "........ Savaşı, 26 Ağustos 1071 tarihinde gerçekleşmiş ve Anadolu'nun kapılarını Türklere açmıştır.", "answer": "Malazgirt", "image": null },
     { "question": "Osmanlı Devleti, ........ Antlaşması ile fiilen sona ermiştir.", "answer": "sevr", "image": null },
     { "question": "Türkiye Cumhuriyeti, ........ yılında ilan edilmiştir.", "answer": "1923", "image": null },
-    { "question": "stnaboul", "answer": "istanbul", "image": 1https://upload.wikimedia.org/wikipedia/commons/5/53/Bosphorus_Bridge_%28235499411%29.jpeg" },
+    { "question": "stnaboul", "answer": "istanbul", "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bosphorus_Bridge_%28235499411%29.jpeg" },
     {"question": "........ Savaşları, Osmanlı'nın Balkanlardaki hâkimiyetini sona erdirmiştir.","answer": "balkan","image": null},
     {
       "question": "Fatih Sultan Mehmet, ........ yılında İstanbul'u fethederek Bizans İmparatorluğu'na son vermiştir.",
