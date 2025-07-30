@@ -1,25 +1,85 @@
 {
   "words": [
-    { "question": "atsaukl", "answer": "ataturk", "image": null },
-    { "question": "zmiir", "answer": "izmir", "image": null },
-    { "question": "ytpra", "answer": "troy", "image": null },
-    { "question": "npoaylon", "answer": "napolyon", "image": null },
-    { "question": "hniot", "answer": "hiton", "image": null },
-    { "question": "lerosna", "answer": "arsenal", "image": null },
-    { "question": "ostnaal", "answer": "anadolu", "image": null },
-    { "question": "stnaboul", "answer": "istanbul", "image": null },
-    { "question": "piksair", "answer": "ispakir", "image": null },
-    { "question": "misor", "answer": "misir", "image": null },
-    { "question": "aplop", "answer": "polap", "image": null },
-    { "question": "eokmn", "answer": "mekon", "image": null },
-    { "question": "reom", "answer": "roma", "image": null },
-    { "question": "kgnealix", "answer": "alexking", "image": null },
-    { "question": "harfiye", "answer": "harfiyye", "image": null },
-    { "question": "lneocrad", "answer": "leonardo", "image": null },
-    { "question": "nsgilea", "answer": "singale", "image": null },
-    { "question": "eafyt", "answer": "tefay", "image": null },
-    { "question": "smaya", "answer": "samya", "image": null },
-    { "question": "asyr", "answer": "asya", "image": null }
+    { "question": "atsaukl", "answer": "ataturk", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg" },
+    { "question": "zmiir", "answer": "ayasofya", "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hagia_Sophia_Mars_2013.jpg" },
+    { "question": "ytpra", "answer": "kız kulesi", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Istanbul_K%C4%B1z_Kulesi_%2854511155871%29_%28cropped%29.jpg" },
+    { "question": "npoaylon", "answer": "napolyon", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/1024px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg" },
+    { "question": "........ Savaşı, 26 Ağustos 1071 tarihinde gerçekleşmiş ve Anadolu'nun kapılarını Türklere açmıştır.", "answer": "Malazgirt", "image": null },
+    { "question": "Osmanlı Devleti, ........ Antlaşması ile fiilen sona ermiştir.", "answer": "sevr", "image": null },
+    { "question": "Türkiye Cumhuriyeti, ........ yılında ilan edilmiştir.", "answer": "1923", "image": null },
+    { "question": "stnaboul", "answer": "istanbul", "image": 1https://upload.wikimedia.org/wikipedia/commons/5/53/Bosphorus_Bridge_%28235499411%29.jpeg" },
+    {"question": "........ Savaşları, Osmanlı'nın Balkanlardaki hâkimiyetini sona erdirmiştir.","answer": "balkan","image": null},
+    {
+      "question": "Fatih Sultan Mehmet, ........ yılında İstanbul'u fethederek Bizans İmparatorluğu'na son vermiştir.",
+      "answer": "1453",
+      "image": null
+    },
+    {
+      "question": "........ Sarayı, Osmanlı padişahlarının 400 yıl boyunca ikamet ettiği saraydır.",
+      "answer": "topkapı",
+      "image": null
+    },
+    {
+      "question": "Mustafa Kemal, Kurtuluş Savaşı'nı başlatmak için ........ şehrine gitmiştir.",
+      "answer": "samsun",
+      "image": null
+    },
+    {
+      "question": "........ Antlaşması ile Kurtuluş Savaşı resmi olarak sona ermiş ve Türkiye’nin sınırları belirlenmiştir.",
+      "answer": "lozan",
+      "image": null
+    },
+    {
+      "question": "Osmanlı Devleti, ........ fermanı ile halkına ilk kez hak ve özgürlük vaat etmiştir.",
+      "answer": "tanzimat",
+      "image": null
+    },
+    {
+      "question": "........, dünyanın en eski tapınaklarından biri olup Şanlıurfa’da yer alır.",
+      "answer": "göbeklitepe",
+      "image": null
+    },
+    {
+      "question": "........, Roma İmparatorluğu'nun en meşhur liderlerinden biridir ve milattan önce yaşamıştır.",
+      "answer": "sezar",
+      "image": null
+    },
+    {
+      "question": "Cumhuriyet rejiminde padişah yerine ........ vardır.",
+      "answer": "cumhurbaşkanı",
+      "image": null
+    },
+    {
+      "question": "........ Sultan Süleyman, Osmanlı tarihinde \"Kanuni\" lakabıyla tanınır.",
+      "answer": "ı. süleyman",
+      "image": null
+    },
+    {
+      "question": "........, hem filozof hem de Sokrates’in öğrencisi olarak bilinir.",
+      "answer": "platon",
+      "image": null
+    },
+    {
+      "question": "........ Camii, İstanbul’un en büyük ve en önemli camilerinden biridir.",
+      "answer": "sultanahmet",
+      "image": null
+    },
+    {
+      "question": "Dünya tarihini etkileyen ........ İhtilali, 1789 yılında Fransa’da başlamıştır.",
+      "answer": "fransız",
+      "image": null
+    },
+    {
+      "question": "Sanayi Devrimi ilk olarak ........ ülkesinde başlamıştır.",
+      "answer": "i̇ngiltere",
+      "image": null
+    },
+    {
+      "question": "Kurtuluş Savaşı’nın en önemli meydan muharebelerinden biri ........ Savaşı’dır.",
+      "answer": "sakarya",
+      "image": null
+    },
+    {"question": "Tarihte krallık ya da imparatorlukla yönetilen devletler, ........ ile yönetilirdi.","answer": "monarşi", "image": null}
   ]
 }
 
