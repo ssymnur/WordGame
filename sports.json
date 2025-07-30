@@ -1,25 +1,25 @@
 {
   "words": [
-    { "question": "kibasket", "answer": "basket", "image": null },
-    { "question": "bofutl", "answer": "futbol", "image": null },
-    { "question": "avoleyb", "answer": "voley", "image": null },
-    { "question": "srenpaa", "answer": "spanner", "image": null },
-    { "question": "nekntis", "answer": "tenis", "image": null },
-    { "question": "skreea", "answer": "kayak", "image": null },
-    { "question": "dnmaoa", "answer": "dambıl", "image": null },
-    { "question": "ipknogc", "answer": "pingpong", "image": null },
-    { "question": "baareesl", "answer": "serbest", "image": null },
-    { "question": "sruko", "answer": "kros", "image": null },
-    { "question": "fnriue", "answer": "fener", "image": null },
-    { "question": "ldaeit", "answer": "atlet", "image": null },
-    { "question": "yerpgmi", "answer": "jimnasy", "image": null },
-    { "question": "skraat", "answer": "kartal", "image": null },
-    { "question": "gdoj", "answer": "judo", "image": null },
-    { "question": "prosm", "answer": "spor", "image": null },
-    { "question": "sswim", "answer": "yüzme", "image": null },
-    { "question": "rduan", "answer": "koşu", "image": null },
-    { "question": "scoebir", "answer": "biceps", "image": null },
-    { "question": "alpow", "answer": "plank", "image": null }
+    { "question": "kibasket", "answer": "basketbol", "image": "https://images.pexels.com/photos/358042/pexels-photo-358042.jpeg?_gl=1*124e4yv*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5OTExJGoxNyRsMCRoMA.." },
+    { "question": "bofutl", "answer": "futbol", "image": "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?_gl=1*124e4yv*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5OTExJGoxNyRsMCRoMA.." },
+    { "question": "avoleyb", "answer": "voleybol", "image": "https://images.pexels.com/photos/6180389/pexels-photo-6180389.jpeg?_gl=1*124e4yv*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5OTExJGoxNyRsMCRoMA.." },
+    { "question": "nekntis", "answer": "tenis", "image": "https://images.pexels.com/photos/5739223/pexels-photo-5739223.jpeg?_gl=1*124e4yv*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5OTExJGoxNyRsMCRoMA.." },
+    { "question": "skreea", "answer": "kayak", "image": "https://images.pexels.com/photos/47356/freerider-skiing-ski-sports-47356.jpeg?_gl=1*1ql3wfo*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5OTgzJGo1NiRsMCRoMA.." },
+    { "question": "dnmaoa", "answer": "dambıl", "image": "https://images.pexels.com/photos/4754001/pexels-photo-4754001.jpeg?_gl=1*1sciub8*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5ODQ3JGoxOCRsMCRoMA.." },
+    { "question": "yerpgmi", "answer": "jimnastik", "image": "https://images.pexels.com/photos/1984445/pexels-photo-1984445.jpeg?_gl=1*1bq35qe*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5OTk1JGo0NCRsMCRoMA.." },
+    { "question": "sswim", "answer": "yüzme", "image": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?_gl=1*1isddy3*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5ODg0JGo0NCRsMCRoMA.." },
+    { "question": "rduan", "answer": "koşu", "image": "https://images.pexels.com/photos/936094/pexels-photo-936094.jpeg?_gl=1*xftg77*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5OTA2JGoyMiRsMCRoMA.." },
+
+    { "question": "Dünyaca ünlü futbolcu Lionel ........, Arjantinlidir.", "answer": "Messi", "image": null },
+    { "question": "NBA, profesyonel ........ ligidir.", "answer": "basketbol", "image": "https://images.pexels.com/photos/358042/pexels-photo-358042.jpeg?_gl=1*124e4yv*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc5OTExJGoxNyRsMCRoMA.." },
+    { "question": "Wimbledon, en prestijli ........ turnuvasıdır.", "answer": "tenis", "image": null },
+    { "question": "Olimpiyatlar ........ yılda bir düzenlenir.", "answer": "dört", "image": null },
+    { "question": "FIFA, dünya çapında ........ organizasyonudur.", "answer": "futbol", "image": null },
+    { "question": "Michael Phelps, ........ branşında birçok madalya kazanmıştır.", "answer": "yüzme", "image": null },
+    { "question": "Formula 1, bir ........ sporudur.", "answer": "motor", "image": null },
+    { "question": "Türkiye Süper Ligi, ........ sporuyla ilgilidir.", "answer": "futbol", "image": null },
+    { "question": "Messi, kariyerinde uzun süre ........ takımında oynamıştır.", "answer": "Barcelona", "image": null },
+    { "question": "Dünyada en çok izlenen spor dalı ........ olarak bilinir.", "answer": "futbol", "image": null }
   ]
 }
 
