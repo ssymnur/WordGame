@@ -1,20 +1,14 @@
 {
   "words": [
     {
-      "question": "........, Türk edebiyatının en önemli destanlarından biridir.",
-      "answer": "dede korkut",
-      "image": null
-    },
-    {
-      "question": "........, 'İstanbul'u Dinliyorum' adlı şiirin yazarıdır.",
-      "answer": "orhan veli kanık",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Orhan_Veli_Kan%C4%B1k.jpg"
-    },
-    {
-      "question": "........, 'Tutunamayanlar' adlı eseriyle tanınır.",
-      "answer": "oğuz atay",
-      "image": "https://upload.wikimedia.org/wikipedia/tr/1/17/O%C4%9Fuz_Atay.jpg"
-    },
+      "question": "........, Türk edebiyatının en önemli destanlarından biridir.", "answer": "dede korkut","image": null },
+    { "question": "tiyatro", "answer": "tiyatro", "image": "https://images.pexels.com/photos/713149/pexels-photo-713149.jpeg?_gl=1*1m7108j*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4NzU3MDgkbzE1JGcxJHQxNzUzODc1NzUwJGoxOCRsMCRoMA.." },
+    { "question": "aprgarfa", "answer": "paragraf", "image": "https://images.pexels.com/photos/9572529/pexels-photo-9572529.jpeg?_gl=1*1jdr5a6*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4NzU3MDgkbzE1JGcxJHQxNzUzODc1NzgxJGo1MCRsMCRoMA.." },
+    { "question": "ayrza", "answer": "yazar", "image": "https://images.pexels.com/photos/3772623/pexels-photo-3772623.jpeg?_gl=1*1yn9pb2*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4NzU3MDgkbzE1JGcxJHQxNzUzODc1ODE3JGoxNCRsMCRoMA.." },
+    { "question": "aflb", "answer": "fabl", "image": "https://www.canakkaleolay.com/public/photos/news/2024/202401/haber-57803/54810207_57803_fabl-nedir-ozellikleri-or.png" },
+    { "question": "iyamz krulalaır", "answer": "yazım kuralları", "image": "https://images.pexels.com/photos/19856614/pexels-photo-19856614.jpeg?_gl=1*1r3d6n1*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4NzU3MDgkbzE1JGcxJHQxNzUzODc1OTU2JGozNSRsMCRoMA.." },
+    {"question": "........, 'İstanbul'u Dinliyorum' adlı şiirin yazarıdır.","answer": "orhan veli kanık","image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Orhan_Veli_Kan%C4%B1k.jpg"},
+    { "question": "........, 'Tutunamayanlar' adlı eseriyle tanınır.","answer": "oğuz atay","image": "https://upload.wikimedia.org/wikipedia/tr/1/17/O%C4%9Fuz_Atay.jpg"},
     {
       "question": "........, halk edebiyatında mani türünün önemli temsilcisidir.",
       "answer": "aşık",
