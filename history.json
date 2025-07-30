@@ -1,13 +1,13 @@
 {
   "words": [
-    { "question": "atsaukl", "answer": "ataturk", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg" },
-    { "question": "zmiir", "answer": "ayasofya", "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hagia_Sophia_Mars_2013.jpg" },
-    { "question": "ytpra", "answer": "kız kulesi", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Istanbul_K%C4%B1z_Kulesi_%2854511155871%29_%28cropped%29.jpg" },
+    { "question": "ttakaur", "answer": "ataturk", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg" },
+    { "question": "asyaofay", "answer": "ayasofya", "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hagia_Sophia_Mars_2013.jpg" },
+    { "question": "kzi lukesi", "answer": "kız kulesi", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Istanbul_K%C4%B1z_Kulesi_%2854511155871%29_%28cropped%29.jpg" },
     { "question": "npoaylon", "answer": "napolyon", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/1024px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg" },
     { "question": "........ Savaşı, 26 Ağustos 1071 tarihinde gerçekleşmiş ve Anadolu'nun kapılarını Türklere açmıştır.", "answer": "Malazgirt", "image": null },
     { "question": "Osmanlı Devleti, ........ Antlaşması ile fiilen sona ermiştir.", "answer": "sevr", "image": null },
     { "question": "Türkiye Cumhuriyeti, ........ yılında ilan edilmiştir.", "answer": "1923", "image": null },
-    { "question": "stnaboul", "answer": "istanbul", "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bosphorus_Bridge_%28235499411%29.jpeg" },
+    { "question": "itsnablu", "answer": "istanbul", "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bosphorus_Bridge_%28235499411%29.jpeg" },
     {"question": "........ Savaşları, Osmanlı'nın Balkanlardaki hâkimiyetini sona erdirmiştir.","answer": "balkan","image": null},
     {
       "question": "Fatih Sultan Mehmet, ........ yılında İstanbul'u fethederek Bizans İmparatorluğu'na son vermiştir.",
