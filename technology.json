@@ -1,25 +1,25 @@
 {
   "words": [
-    { "question": "ntirenet", "answer": "internet", "image": null },
-    { "question": "lveeat", "answer": "tablet", "image": null },
-    { "question": "farea", "answer": "fare", "image": null },
-    { "question": "yekalv", "answer": "klavye", "image": null },
-    { "question": "praapp", "answer": "app", "image": null },
-    { "question": "lameit", "answer": "email", "image": null },
-    { "question": "kmraea", "answer": "kamera", "image": null },
-    { "question": "eekrn", "answer": "ekran", "image": null },
+    { "question": "ientrtne", "answer": "internet", "image": "https://images.pexels.com/photos/1624895/pexels-photo-1624895.jpeg?_gl=1*1lrm10f*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc4NDgyJGoxMyRsMCRoMA.." },
+    { "question": "bletat", "answer": "tablet", "image": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?_gl=1*1daz93k*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc4NTcwJGo2MCRsMCRoMA.." },
+    { "question": "rafe", "answer": "fare", "image": "https://images.pexels.com/photos/392018/pexels-photo-392018.jpeg?_gl=1*1k8ovzc*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc4NjM1JGo1NSRsMCRoMA.." },
+    { "question": "kalevy", "answer": "klavye", "image": "https://images.pexels.com/photos/33210866/pexels-photo-33210866.jpeg?_gl=1*1e1p873*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc4NTcwJGo2MCRsMCRoMA.." },
+    { "question": "guyaulam", "answer": "uygulama", "image": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?_gl=1*1daz93k*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc4NTcwJGo2MCRsMCRoMA.." },
+    { "question": "lamei", "answer": "email", "image": "https://images.pexels.com/photos/5605061/pexels-photo-5605061.jpeg?_gl=1*1iqu5u9*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc4NTI2JGozMCRsMCRoMA.." },
+    { "question": "akmear", "answer": "kamera", "image": "https://images.pexels.com/photos/243757/pexels-photo-243757.jpeg?_gl=1*mj35dh*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4NzU3MDgkbzE1JGcxJHQxNzUzODc2MzkyJGo0OSRsMCRoMA.." },
+    { "question": "eakrn", "answer": "ekran", "image": null },
     { "question": "bwmeca", "answer": "webcam", "image": null },
-    { "question": "losptap", "answer": "laptop", "image": null },
+    { "question": "palpto", "answer": "laptop", "image": "https://images.pexels.com/photos/40185/mac-freelancer-macintosh-macbook-40185.jpeg?_gl=1*7lo44k*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc4NTM3JGoxOSRsMCRoMA.." },
     { "question": "wbores", "answer": "browser", "image": null },
-    { "question": "popwhsa", "answer": "whatsapp", "image": null },
-    { "question": "rtamep", "answer": "ram", "image": null },
-    { "question": "elcmdao", "answer": "modem", "image": null },
-    { "question": "oyfrhu", "answer": "router", "image": null },
-    { "question": "aetndoi", "answer": "donanım", "image": null },
-    { "question": "ccerdio", "answer": "codec", "image": null },
-    { "question": "oidran", "answer": "android", "image": null },
-    { "question": "kliucd", "answer": "cloud", "image": null },
-    { "question": "zuwfei", "answer": "wifi", "image": null }
+    { "question": "hwtaspap", "answer": "whatsapp", "image": null },
+    { "question": "rma", "answer": "ram", "image": null },
+    { "question": "emdom", "answer": "modem", "image": null },
+    { "question": "ruotre", "answer": "router", "image": null },
+    { "question": "odamnın", "answer": "donanım", "image": null },
+    { "question": "islbgiayra", "answer": "bilgisayar", "image": null },
+    { "question": "darndoi", "answer": "android", "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?_gl=1*k4l0qo*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM4Nzg0MzUkbzE2JGcxJHQxNzUzODc4NjczJGoxNyRsMCRoMA.." },
+    { "question": "oulcd", "answer": "cloud", "image": null },
+    { "question": "ifwi", "answer": "wifi", "image": "https://media.istockphoto.com/id/1297855259/tr/foto%C4%9Fraf/bulan%C4%B1k-yans%C4%B1mal%C4%B1-siyah-koyu-arka-plan-%C3%BCzerinde-f%C3%BCt%C3%BCristik-parlayan-mavi-wi-fi-sembol%C3%BC.jpg?s=2048x2048&w=is&k=20&c=i_tK2Qet7yZmbZSvYC4SjUhx9XJDgcw5RGE7e_rtMG4=" }
   ]
 }
 
